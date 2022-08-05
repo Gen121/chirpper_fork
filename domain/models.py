@@ -9,7 +9,7 @@ class Sex(Enum):
 
 
 class Picture:
-    pass
+    ...
 
 
 class User:
